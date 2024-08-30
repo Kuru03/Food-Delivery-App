@@ -1,5 +1,4 @@
 import React, { useContext, useEffect, useState } from "react";
-// import "./MyOrders.css";
 import axios from "axios";
 import { StoreContext } from "../../context/StoreContext";
 import { assets } from "../../assets/assets";
